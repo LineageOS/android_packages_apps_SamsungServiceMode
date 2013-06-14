@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iDnPL7I",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-06-14T19:49:43Z",
+      "side": 1,
+      "message": "Diens modus",
+      "revId": "44dd6d305d7ba131f3846141ba3deb1b22872a1c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
