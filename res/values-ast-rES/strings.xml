@@ -15,8 +15,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="app_name">Mou de serviciu</string>
-  <string name="input">Entrada</string>
-  <string name="quit">Colar</string>
-</resources>
+<resources></resources>
