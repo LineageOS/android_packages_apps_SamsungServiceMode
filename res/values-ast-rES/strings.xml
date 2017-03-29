@@ -17,5 +17,6 @@
 -->
 <resources>
   <string name="app_name">Mou de serviciu</string>
+  <string name="input">Entrada</string>
   <string name="quit">Colar</string>
 </resources>
