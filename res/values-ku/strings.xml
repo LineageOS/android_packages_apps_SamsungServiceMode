@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">شێوازی خزمەتگوزاری</string>
-  <string name="input">زیادکردن</string>
-  <string name="quit">دەرچوون</string>
+    <string name="app_name">شێوازی خزمەتگوزاری</string>
+    <string name="input">زیادکردن</string>
+    <string name="quit">دەرچوون</string>
 </resources>

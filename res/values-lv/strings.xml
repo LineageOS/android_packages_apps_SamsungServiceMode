@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Servisa režīms</string>
-  <string name="input">Ievade</string>
-  <string name="quit">Iziet</string>
+    <string name="app_name">Servisa režīms</string>
+    <string name="input">Ievade</string>
+    <string name="quit">Iziet</string>
 </resources>

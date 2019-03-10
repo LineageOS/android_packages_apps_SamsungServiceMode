@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Tryb Serwisowy</string>
-  <string name="input">Wejście</string>
-  <string name="quit">Wyjdź</string>
+    <string name="app_name">Tryb Serwisowy</string>
+    <string name="input">Wejście</string>
+    <string name="quit">Wyjdź</string>
 </resources>

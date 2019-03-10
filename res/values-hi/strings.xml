@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">सेवा मोड</string>
-  <string name="input">इनपुट</string>
-  <string name="quit">निर्गम करें</string>
+    <string name="app_name">सेवा मोड</string>
+    <string name="input">इनपुट</string>
+    <string name="quit">निर्गम करें</string>
 </resources>

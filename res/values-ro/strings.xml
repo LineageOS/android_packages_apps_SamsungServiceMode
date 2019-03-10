@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Modul Service</string>
-  <string name="input">Intrare</string>
-  <string name="quit">Abandonare</string>
+    <string name="app_name">Modul Service</string>
+    <string name="input">Intrare</string>
+    <string name="quit">Abandonare</string>
 </resources>

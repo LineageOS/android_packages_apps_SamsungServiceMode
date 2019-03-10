@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Servicemodus</string>
-  <string name="input">Invoer</string>
-  <string name="quit">Afsluiten</string>
+    <string name="app_name">Servicemodus</string>
+    <string name="input">Invoer</string>
+    <string name="quit">Afsluiten</string>
 </resources>

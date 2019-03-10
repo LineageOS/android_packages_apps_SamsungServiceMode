@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Сервисный режим</string>
-  <string name="input">Ввод</string>
-  <string name="quit">Выход</string>
+    <string name="app_name">Сервисный режим</string>
+    <string name="input">Ввод</string>
+    <string name="quit">Выход</string>
 </resources>

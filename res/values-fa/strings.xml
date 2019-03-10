@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">حالت سرویس</string>
-  <string name="input">ورود</string>
-  <string name="quit">خروج</string>
+    <string name="app_name">حالت سرویس</string>
+    <string name="input">ورود</string>
+    <string name="quit">خروج</string>
 </resources>
