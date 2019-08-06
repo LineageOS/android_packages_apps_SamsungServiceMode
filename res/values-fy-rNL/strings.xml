@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Xidmət Rejimi</string>
-    <string name="input">Giriş</string>
-    <string name="quit">Çıx</string>
+    <string name="app_name">Tsjinstmodus</string>
+    <string name="input">Ynfier</string>
+    <string name="quit">Ofslute</string>
 </resources>
