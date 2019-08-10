@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Serviceläge</string>
-  <string name="input">Inmatning</string>
-  <string name="quit">Avsluta</string>
+    <string name="app_name">Serviceläge</string>
+    <string name="input">Inmatning</string>
+    <string name="quit">Avsluta</string>
 </resources>

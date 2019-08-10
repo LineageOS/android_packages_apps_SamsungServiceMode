@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Hooldusrežiim</string>
-  <string name="input">Sisend</string>
-  <string name="quit">Välju</string>
+    <string name="app_name">Hooldusrežiim</string>
+    <string name="input">Sisend</string>
+    <string name="quit">Välju</string>
 </resources>

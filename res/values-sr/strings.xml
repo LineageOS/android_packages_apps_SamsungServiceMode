@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Режим сервиса</string>
-  <string name="input">Улазни</string>
-  <string name="quit">Напусти</string>
+    <string name="app_name">Режим сервиса</string>
+    <string name="input">Улазни</string>
+    <string name="quit">Напусти</string>
 </resources>

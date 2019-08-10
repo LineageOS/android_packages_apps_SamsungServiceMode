@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Service-Modus</string>
-  <string name="input">Agank</string>
-  <string name="quit">Verloossen</string>
+    <string name="app_name">Service-Modus</string>
+    <string name="input">Agank</string>
+    <string name="quit">Verloossen</string>
 </resources>

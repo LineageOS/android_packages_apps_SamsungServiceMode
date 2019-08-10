@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Diens modus</string>
-  <string name="input">Insette</string>
-  <string name="quit">Afsluit</string>
+    <string name="app_name">Diens modus</string>
+    <string name="input">Insette</string>
+    <string name="quit">Afsluit</string>
 </resources>

@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Λειτουργία service</string>
-  <string name="input">Είσοδος</string>
-  <string name="quit">Έξοδος</string>
+    <string name="app_name">Λειτουργία service</string>
+    <string name="input">Είσοδος</string>
+    <string name="quit">Έξοδος</string>
 </resources>

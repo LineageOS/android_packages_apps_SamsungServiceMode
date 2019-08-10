@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">服务模式</string>
-  <string name="input">输入</string>
-  <string name="quit">结束</string>
+    <string name="app_name">服务模式</string>
+    <string name="input">输入</string>
+    <string name="quit">结束</string>
 </resources>

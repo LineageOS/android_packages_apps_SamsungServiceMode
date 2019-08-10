@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Paslaugos režimas</string>
-  <string name="input">Įvestis</string>
-  <string name="quit">Išeiti</string>
+    <string name="app_name">Paslaugos režimas</string>
+    <string name="input">Įvestis</string>
+    <string name="quit">Išeiti</string>
 </resources>

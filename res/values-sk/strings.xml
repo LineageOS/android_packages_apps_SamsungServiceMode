@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Servisný režim</string>
-  <string name="input">Vstup</string>
-  <string name="quit">Ukončiť</string>
+    <string name="app_name">Servisný režim</string>
+    <string name="input">Vstup</string>
+    <string name="quit">Ukončiť</string>
 </resources>

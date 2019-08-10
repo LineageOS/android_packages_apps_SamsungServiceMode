@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Service-modus</string>
-  <string name="input">Inngang</string>
-  <string name="quit">Avslutt</string>
+    <string name="app_name">Service-modus</string>
+    <string name="input">Inngang</string>
+    <string name="quit">Avslutt</string>
 </resources>

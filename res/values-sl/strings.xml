@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Način storitve</string>
-  <string name="input">Vnos</string>
-  <string name="quit">Končaj</string>
+    <string name="app_name">Način storitve</string>
+    <string name="input">Vnos</string>
+    <string name="quit">Končaj</string>
 </resources>
